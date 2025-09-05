@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Growing up today isn’t easy. Between school pressures, family expectations, and the constant buzz of social media, it’s normal to feel overwhelmed sometimes. At BetterHelp, we believe every young person in Kenya deserves a safe space to talk, heal, and grow. Whether you’re struggling with stress, anxiety, or just trying to figure out who you are, connecting with a caring therapist can make a real difference. With online counseling that’s private, flexible, and affordable, you don’t have to face life’s challenges alone because support is just a click away.</p>
         </div>
 
         <div>
@@ -24,8 +24,8 @@ const Footer = () => {
         <div>
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>+1-212-456-7890</li>
-            <li>greatstackdev@gmail.com</li>
+            <li>+254745569447</li>
+            <li>mindfulkenya@gmail.com</li>
           </ul>
         </div>
 
